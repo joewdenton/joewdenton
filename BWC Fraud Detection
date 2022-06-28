@@ -1,0 +1,14 @@
+This file will be for saving all queries for the fraud detection reports.  It will show relationships, joins, and data dictionary.
+Here are a list of all reports built for the BWC fraud detection project.
+    Employer Wages with No POC
+    NCCI Coverage Gaps
+    Delinquent Accounts with No POC
+    Employer Wages POC Variance
+    Tax Revenue with No POC
+    Tax Payoll POC Variance
+    Wages by Employee
+    Wages by Employer
+    Vehicle Registration No POC
+    Investigator Territories
+    Self-Insured Employers
+    Investigator Region Information
